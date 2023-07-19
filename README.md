@@ -77,7 +77,7 @@ SnappCar needs a comprehensive Car Rental Management System that will help them 
 - Rental Listings	End Date			Date	
 - Extra mile price		Currency(16, 2) 	
 - Rate Type		Picklist (Hourly, Daily)	
-- isActive			Checkbox*	
+- isActive			Checkbox	
 - isSmartPrice		Checkbox		
 - Long Term Discount	Checkbox	
 - Mile Allowance		Number(18, 0) 	
